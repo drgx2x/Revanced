@@ -1,2 +1,2 @@
 # Revanced
-Backup file revan ed app
+Backup file revanced app
